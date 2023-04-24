@@ -39,4 +39,52 @@
    ~Margin - Clears an area outside the border. The margin is transparent
 
 #### 1.What data types can you store inside of an Array?
-Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+ 
+   ~numbers, strings, boolean values (true and false), characters, objects.
+ 
+ #### 2.Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+ 
+   ~Yes the people array is valid in JavaScript because it's still an object. You array is accessed by referring to the index number of the item in square brackets.
+ 
+ #### 3.List five shorthand operators for assignment in javascript and describe what they do.
+ 
+   ~Arithmetic Operators
+ 
+    Arithmetic operators are used to perform arithmetic between variables and/or values.
+ 
+   ~Assignment Operators
+ 
+    Assignment operators are used to assign values to JavaScript variables.
+ 
+   ~Comparison Operators
+ 
+    Comparison operators are used in logical statements to determine equality or difference between variables or values.
+ 
+   ~Logical Operators
+ 
+    Logical operators are used to determine the logic between variables or values.
+ 
+   ~Conditional Operators
+ 
+    The conditional operator assigns a value to a variable based on a condition.
+ 
+   ~Type Operators
+ 
+    The type operator returns the type of a variable, object, function or expression.
+ 
+ #### 4. Read the code below and evaluate the last expression and explain what the result would be and why.
+ 
+    ~let a = 10;
+     let b = 'dog';
+     let c = false;
+
+     // evaluate this
+     (a + c) + b;
+ 
+    This result will be False because the last expession does not equal or express to the other variable above.
+ 
+ #### 5. Describe a real world example of when a conditional statement should be used in a JavaScript program
+ 
+     ~If Statement Example
+
+       (10 > 5) is the condition to test, which in this case is true — 10 is greater than 5. The part contained inside curly braces {} is the block of code to run.             Because the condition passes, the variable outcome is assigned the value "if block".
