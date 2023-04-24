@@ -88,3 +88,5 @@
      ~If Statement Example
 
        (10 > 5) is the condition to test, which in this case is true — 10 is greater than 5. The part contained inside curly braces {} is the block of code to run.             Because the condition passes, the variable outcome is assigned the value "if block".
+
+ ## Things I want to know more about
